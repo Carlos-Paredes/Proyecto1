@@ -9,6 +9,7 @@ public class HolaMundo {
         String titulo = scanner.nextLine();
         System.out.println("Proporciona el autor:");
         String autor = scanner.nextLine();
-        System.out.println(titulo + " fue escrito por " + autor);     
+        System.out.println(titulo + " fue escrito por " + autor);   
+        System.out.println("Mi nombre es Akira");  
     }
 }
